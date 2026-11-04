@@ -1,0 +1,8 @@
+
+REDIS CACHE SERVER
+1) garnet
+dotnet tool install --global garnet-server
+dotnet tool update --global garnet-server
+garnet-server
+
+2) memurai
