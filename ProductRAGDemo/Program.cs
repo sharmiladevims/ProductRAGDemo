@@ -3,9 +3,6 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
-
-using Pgvector.EntityFrameworkCore;
-
 using ProductRAGDemo.Configurations;
 using ProductRAGDemo.Data;
 using ProductRAGDemo.Services;
